@@ -1,3 +1,6 @@
+The project created in Angular to promote the faixa-preta academy. Data presentation program for the Faixa-Preta website developed with Angular technology, LeafletJS API for interactive visualization of the Map, in addition to technologies such as HTML, CSS and JavaScript. This project was designed and carried out in collaboration with Lennon Gama Araujo and Lucas Aires Nascimento. Check out the source code and contributions in our GitHub repository: github.com/lennon1230 and https://github.com/airesluuucas.
+
+
 # FaixaPreta
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.3.
